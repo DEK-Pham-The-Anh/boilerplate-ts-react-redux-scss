@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "App boilerplate TS-React-Redux-SCSS",
+  "name": "App boilerplate TS-React-Redux-SCSS",
   "icons": [
     {
       "src": "favicon.ico",
